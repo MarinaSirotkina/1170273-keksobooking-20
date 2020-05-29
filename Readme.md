@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Марина Сироткина](https://up.htmlacademy.ru/javascript/20/user/1170273).
-* Наставник: `Неизвестно`.
+* Наставник:[Лариса Клец]
 
 ---
 
